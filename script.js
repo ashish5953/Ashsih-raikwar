@@ -148,7 +148,7 @@ function timelinetwo(){
     },"yooo")
     
     .to("#stop h1",{
-        left:"-131%",
+        left:"-300%",
         ease:Power1,
         duration:2
     },"same")
